@@ -7,7 +7,7 @@
 #include "add.h"
 #include "sub.h"
 #include "multi.h"
-#include "div.h"
+#include "dive.h"
 #include "mod.h"
 
 int main()
@@ -15,6 +15,6 @@ int main()
     printf("add : %d\n", add(78, 89));
     printf("sub : %d\n", sub(78, 89));
     printf("multi : %d\n", multi(78, 89));
-    printf("div : %d\n", div(78, 89));
+    printf("dive : %d\n", dive(78, 89));
     printf("mod : %d\n", mod(78, 89));
 }

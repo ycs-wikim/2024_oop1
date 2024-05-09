@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="add.cpp" />
-    <ClCompile Include="div.cpp" />
+    <ClCompile Include="dive.cpp" />
     <ClCompile Include="mod.cpp" />
     <ClCompile Include="multi.cpp" />
     <ClCompile Include="report2_example.cpp" />
@@ -136,7 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h" />
-    <ClInclude Include="div.h" />
+    <ClInclude Include="dive.h" />
     <ClInclude Include="mod.h" />
     <ClInclude Include="multi.h" />
     <ClInclude Include="sub.h" />

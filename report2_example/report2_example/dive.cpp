@@ -1,6 +1,6 @@
 #include <iostream>
 
-int div(int a, int b)
+int dive(int a, int b)
 {
 
 }
