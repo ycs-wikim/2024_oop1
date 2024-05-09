@@ -1,0 +1,9 @@
+#pragma once
+
+/// <summary>
+/// »©±â¸¦ ±¸ÇöÇÑ ÇÔ¼ö
+/// </summary>
+/// <param name="a">»©´Â ¼ö</param>
+/// <param name="b">»¬ ¼ö</param>
+/// <returns>a¿¡¼­ b¸¦ »« °á°ú</returns>
+int sub(int a, int b);
